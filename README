@@ -1,1 +1,1 @@
-sudo deauth_attack.py [Network] [Target MAC BSSID]
+sudo python3 deauth_attack.py [Network] [Target MAC BSSID]
